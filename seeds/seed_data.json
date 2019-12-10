@@ -1,6 +1,6 @@
 {
    "poll": "Favourite Linux Distribution",
-   "question": "V1: What is your favourite Linux Distribution?",
+   "question": "V2: What is your favourite Linux Distribution?",
    "options": [
 	"Mint",
 	"Fedora",
